@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main - A programme that prints size of various types
  * Return: 0
  */
