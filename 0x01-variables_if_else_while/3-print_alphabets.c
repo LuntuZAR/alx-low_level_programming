@@ -10,6 +10,8 @@ int ch;
 
 for (ch = 'a'; ch <= 'z'; ch++);
 putchar(ch);
+putchar('\n');
+/*lowewercase printed*/
 for (ch = 'A' <= 'Z'; ch++;)
 putchar(ch);
 putchar('\n');
