@@ -28,7 +28,7 @@ n, n % 10);
 else
 {
 printf("Last digit of %d is %d and 0\n",
-n. n % 10);
+n, n % 10);
 }
 return (0);
 }
