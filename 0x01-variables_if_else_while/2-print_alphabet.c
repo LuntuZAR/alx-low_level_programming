@@ -1,20 +1,18 @@
 #include <stdio.h>
 /**
- * main - prints in lowercase,
- * followed by new line
+ * main -Prints alphabet.
+ *
  * Return: 0 (Accomplished)
  */
 int main(void)
 {
-	char ch;
+char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+int i;
 
-	
-
-	for 
-	(ch = 'a'; i ch < = 'z'; ch++);
-	{
-		putchar(ch);
-	}
-	putchar('\n');
-	return (0);
+for (i = 0; i < 26; i++)
+{
+putchar(alp[i]);
+}
+putchae('\');
+return (0);
 }
