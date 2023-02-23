@@ -8,7 +8,7 @@
 
 int main(void)
 {
-int ;
+int i;
 
 printf("Infinite loop incoming :(\n");
 
