@@ -1,4 +1,4 @@
-n_h
+#include"main_h"
 
 int _putchar(char);
 void print_alphabet(void);
