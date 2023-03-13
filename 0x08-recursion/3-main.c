@@ -9,6 +9,7 @@
 int main(void)
 {
     int r;
+    int factorial(int n);
 
     r = factorial(1);
     printf("%d\n", r);
